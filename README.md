@@ -11,8 +11,7 @@ This project helps understand how stacks, binary trees, and tree traversals work
 ---
 
 ## Data Structures Used
-Stack
-Binary Tree.
+Stack,Binary Tree.
 
 ---
 
